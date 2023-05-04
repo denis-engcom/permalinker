@@ -16,6 +16,7 @@ import (
 )
 
 func main() {
+	// Test
 	app := &cli.App{
 		Name:                 "permalinker",
 		Usage:                "Generates a permalink URL with the given file and (optional) line number.",
